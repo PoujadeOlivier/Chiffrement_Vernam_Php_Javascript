@@ -1,4 +1,6 @@
-<h1>Implémentation du chiffre de Vernam pour une communication sécurisée Javascript <=> Php</h1>
+<h3>Chiffrement maison pour une communication web client<=>serveur</h3>
+
+Implémentation du chiffre de Vernam pour une communication sécurisée Javascript <=> Php , fonctionne dans les 2 sens des transactions sécurisées.
 
 Le processus choisi est celui-ci :
 
