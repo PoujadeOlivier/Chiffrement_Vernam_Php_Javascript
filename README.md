@@ -1,4 +1,4 @@
-#Implémentation du chiffre de Vernam pour une communication sécurisé Javascript <=> Php
+<h1>Implémentation du chiffre de Vernam pour une communication sécurisé Javascript <=> Php</h1>
 
 Le processus choisi est celui-ci
 
