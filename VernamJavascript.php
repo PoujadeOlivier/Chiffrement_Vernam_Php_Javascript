@@ -1,8 +1,8 @@
 <script type="text/javascript">
 
 
-//variable à forger à l'authentification, exemple hash(motdepasse + chainealeaoire)
-//elle sera créer côté serveur et client, ce sera un secret commun, ce sera un secret commun qui sera utilisé comme grain de sel dans chaque masque jettable
+//variable à forger à l'authentification, exemple hash(motdepasse + chainealéaoire)
+//elle sera créer côté serveur et client, ce sera un secret commun qui sera utilisé comme grain de sel dans chaque masque jettable
 sessionStorage.setItem('B2', 'test');
 
 
