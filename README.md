@@ -5,3 +5,5 @@ Implémentation du chiffre de Vernam pour une communication sécurisée Javascri
 Le processus choisi est celui-ci :
 
 ![alt text](https://raw.githubusercontent.com/PoujadeOlivier/Chiffrement_Vernam_Php_Javascript/main/Processus_chiffrement_client_serveur.jpg) 
+
+ Génration de B2 , un secret commun entre le client et le serveur, qui sera utilisé comme grain de sel dans chaque masque jettable.
