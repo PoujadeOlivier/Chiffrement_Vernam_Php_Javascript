@@ -2,7 +2,7 @@
 
 
 //variable à forger à l'authentification, exemple hash(motdepasse + chainealéaoire)
-//elle sera créer côté serveur et client, ce sera un secret commun qui sera utilisé comme grain de sel dans chaque masque jetable
+//elle sera créée côté serveur et client, ce sera un secret commun qui sera utilisé comme grain de sel dans chaque masque jetable
 sessionStorage.setItem('B2', 'test');
 
 
